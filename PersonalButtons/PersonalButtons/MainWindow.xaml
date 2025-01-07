@@ -7,10 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
+<<<<<<< HEAD
         <Button Content="" Click="Button_Click_1"/>
         <Button Content="" Click="Button_Click"/>
 
 
+=======
+        <Button Content="Meina" Click="Button_Click"/>
+>>>>>>> featureButtonKölbel
 
     </StackPanel>
 </Window>
