@@ -26,5 +26,10 @@ namespace PersonalButtons
 
             this.Background = Brushes.White;
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
