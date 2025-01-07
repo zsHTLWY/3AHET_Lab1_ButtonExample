@@ -29,7 +29,12 @@ namespace PersonalButtons
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            this.Background = Brushes.DarkBlue;
+        }
 
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            this.Background = Brushes.DeepPink;
         }
     }
 }
