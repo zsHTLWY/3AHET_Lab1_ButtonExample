@@ -9,6 +9,6 @@
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
         <Button Content="Mei knopf" Height="63" Width="84" Click="Button_Click"/>
-
+        <Button Content="Na Mei knopf" Height="63" Width="84" Click="Button_Click"/>
     </StackPanel>
 </Window>
