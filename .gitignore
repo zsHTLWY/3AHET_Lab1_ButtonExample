@@ -3,6 +3,5 @@
 ################################################################################
 
 .vs
-PersonalButtons/.vs
-PersonalButtons/bin
-PersonalButtons/obj
+PersonalButtons/bin/
+PersonalButtons/obj/
