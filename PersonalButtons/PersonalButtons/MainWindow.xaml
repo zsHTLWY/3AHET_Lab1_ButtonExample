@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:PersonalButtons"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel>
-        
-    </StackPanel>
+    <Canvas>
+        <Button Content="Green" Canvas.Left="330" Canvas.Top="217" Width="70" Height="70" Click="Button_Click_1"/>
+        <Button Content="Black" Canvas.Left="227" Canvas.Top="217" Width="70" Height="70" Click="Button_Click"/>
+
+    </Canvas>
 </Window>
