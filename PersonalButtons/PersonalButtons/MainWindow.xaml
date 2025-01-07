@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        
+        <Canvas>
+            
+        </Canvas>
+        <Button Click="btn_Farbe_Click" Content="Blau" Height="85"/>
     </StackPanel>
 </Window>
