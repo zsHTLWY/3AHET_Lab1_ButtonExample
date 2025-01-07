@@ -29,7 +29,7 @@ namespace PersonalButtons
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            Background = Brushes.Purple;
         }
     }
 }
