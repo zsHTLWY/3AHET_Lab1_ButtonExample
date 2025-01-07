@@ -26,5 +26,20 @@ namespace PersonalButtons
 
             this.Background = Brushes.White;
         }
+<<<<<<< Updated upstream
+=======
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Background = Brushes.Transparent;
+
+        }
+    
+
+
+
+
+        //ertla
+>>>>>>> Stashed changes
     }
 }
