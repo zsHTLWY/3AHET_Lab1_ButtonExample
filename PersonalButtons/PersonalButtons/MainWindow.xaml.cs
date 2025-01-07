@@ -29,16 +29,8 @@ namespace PersonalButtons
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (button1.Width == 100 && button1.Height == 50)
-            {
-                button1.Width = this.Width;  
-                button1.Height = this.Height;
-            }
-            else
-            {
-                button1.Width = 100;
-                button1.Height = 50;
-            }
+            this.Background = Brushes.Transparent;
+
         }
     }
 }

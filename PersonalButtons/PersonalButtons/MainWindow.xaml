@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel>
-        <Button x:Name="button1" Content="Mei knopf" Click="Button_Click" Height="89" Width="220" BorderBrush="#00707070">
+        <Button x:Name="button1" Content="Mei knopf" Click="Button_Click" Height="185" Width="457" BorderBrush="#00707070">
             <Button.Background>
                 <ImageBrush ImageSource="/steamuserimages-a.akamaihd.jpg"/>
             </Button.Background>
