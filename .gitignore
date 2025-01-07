@@ -4,5 +4,5 @@
 
 /.vs
 /PersonalButtons/.vs/
-/PersonalButtons/bin/
-/PersonalButtons/obj/
+/PersonalButtons/PersonalButtons/bin/
+/PersonalButtons/PersonalButtons/obj/

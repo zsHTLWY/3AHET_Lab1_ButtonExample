@@ -23,6 +23,8 @@ namespace PersonalButtons
         public MainWindow()
         {
             InitializeComponent();
+
+            this.Background = Brushes.White;
         }
     }
 }
